@@ -18,4 +18,7 @@
 -  這兩種都可以     
   - return BadRequest("沒有該ID＝" + id);
   - return Ok(hero);
--  
+-  curl is Client URL
+- API result is json, able to download from Swagger
+- Program.cs is a little bit different to video
+  
