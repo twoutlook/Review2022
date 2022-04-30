@@ -1,6 +1,7 @@
 # CRUD with a .NET 6 Web API & Entity Framework Core 🚀 Full Course
 - Patrick God
 - https://youtu.be/Fbf_ua2t6v4
+- first half, SuperHero with DB
 ## background
 - 2022-04-30 10:00
 - Max 由於檢疫文件問題未能飛PH
